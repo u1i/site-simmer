@@ -1,3 +1,3 @@
 # Site Simmer
 
-Keeping websites luke warm & awake
+Keeping websites luke warm & awake, using Azure Functions.
